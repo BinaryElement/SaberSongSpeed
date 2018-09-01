@@ -1,0 +1,10 @@
+C:\Users\riley\source\repos\SaberSongSpeed\SaberSongSpeed\bin\Debug\SaberSongSpeed.exe.config
+C:\Users\riley\source\repos\SaberSongSpeed\SaberSongSpeed\bin\Debug\SaberSongSpeed.exe
+C:\Users\riley\source\repos\SaberSongSpeed\SaberSongSpeed\bin\Debug\SaberSongSpeed.pdb
+C:\Users\riley\source\repos\SaberSongSpeed\SaberSongSpeed\obj\Debug\SaberSongSpeed.csprojAssemblyReference.cache
+C:\Users\riley\source\repos\SaberSongSpeed\SaberSongSpeed\obj\Debug\SaberSongSpeed.Form1.resources
+C:\Users\riley\source\repos\SaberSongSpeed\SaberSongSpeed\obj\Debug\SaberSongSpeed.Properties.Resources.resources
+C:\Users\riley\source\repos\SaberSongSpeed\SaberSongSpeed\obj\Debug\SaberSongSpeed.csproj.GenerateResource.cache
+C:\Users\riley\source\repos\SaberSongSpeed\SaberSongSpeed\obj\Debug\SaberSongSpeed.csproj.CoreCompileInputs.cache
+C:\Users\riley\source\repos\SaberSongSpeed\SaberSongSpeed\obj\Debug\SaberSongSpeed.exe
+C:\Users\riley\source\repos\SaberSongSpeed\SaberSongSpeed\obj\Debug\SaberSongSpeed.pdb
